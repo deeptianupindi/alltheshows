@@ -16,7 +16,7 @@ module.exports = () => {
   })
 
   return {
-    entry: './src/index.js',
+    entry: './src/index.js.tsx',
     output: {
       filename: '[name].[contenthash].js',
       path: path.resolve(__dirname, 'dist'),
@@ -60,7 +60,7 @@ module.exports = () => {
         'process.env': JSON.stringify(process.env),
       }),
       new HtmlWebPackPlugin({
-        template: './src/index.html',
+        template: './public/index.html',
         filename: './index.html',
       }),
       new CopyWebpackPlugin({

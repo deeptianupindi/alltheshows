@@ -2,8 +2,8 @@
   "name": "allTheShows",
   "version": "1.0.0",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run buildprod",
+    "deploy": "gh-pages -d buildprod",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "build:dev": "webpack --mode development --config webpack.config.js",
