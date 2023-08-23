@@ -1,13 +1,13 @@
 {
-  "name": "netflix-clone",
+  "name": "allTheShows",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run buildprod",
+    "deploy": "gh-pages -d buildprod",
     "build:dev": "webpack --mode development --config webpack.config.js",
-    "build:prod": "webpack --mode development",
+    "buildprod": "webpack --mode development",
     "start:dev": "webpack serve --mode development --config webpack.config.js --open",
     "start:prod": "webpack serve --mode production --open",
     "lint": "eslint --fix . && echo 'Lint complete.'",
@@ -16,6 +16,19 @@
     "test": "react-scripts test",
     "test:coverage": "npm test -- --coverage"
   },
+  "homepage": "http://deeptianupindi.github.io/allTheShows",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
   "jest": {
     "collectCoverageFrom": [
       "src/components/**/*.{js}",
@@ -23,7 +36,7 @@
       "!<rootDir>/path/to/dir/"
     ]
   },
-  "author": "Andres Alcocer",
+  "author": "D A",
   "license": "ISC",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
@@ -87,6 +100,7 @@
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "^4.6.0",
     "file-loader": "^6.2.0",
+    "gh-pages": "^3.2.3",
     "html-loader": "^4.2.0",
     "html-webpack-plugin": "^5.5.0",
     "image-webpack-loader": "^8.1.0",
