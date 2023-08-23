@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix Clone
 
 - Demo: <https://netflix-clone-ebon-nu.vercel.app/>
@@ -47,3 +48,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 Please feel free to create a pull request and submit any issues!
 Currently looking for backend developers. If you would to contribute to support a backend, reach out, all ideas are welcomed!
+=======
+# allTheShows
+Displays comedy shows in a city
+>>>>>>> 1573e8dac82a9b766e1a14967f6e60cb04d451c2
