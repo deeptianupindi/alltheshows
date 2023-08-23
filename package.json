@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "test:coverage": "npm test -- --coverage"
   },
-  "homepage": "http://deeptianupindi.github.io/allTheShows",
+  "homepage": "https://deeptianupindi.github.io/allTheShows/",
   "browserslist": {
     "production": [
       ">0.2%",
