@@ -1,11 +1,12 @@
 {
   "name": "allTheShows",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": false,
   "scripts": {
-    "predeploy": "npm run buildprod",
-    "deploy": "gh-pages -d buildprod",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
     "build:dev": "webpack --mode development --config webpack.config.js",
     "buildprod": "webpack --mode development",
     "start:dev": "webpack serve --mode development --config webpack.config.js --open",
