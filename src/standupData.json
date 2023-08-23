@@ -1,0 +1,293 @@
+{
+  "_type": "SearchResponse",
+  "instrumentation": {
+    "_type": "ResponseInstrumentation",
+    "pingUrlBase": "https://www.bingapis.com/api/ping?IG=7F29BAF9B57743418D9B0D300D4246A2&CID=10D40B3B0B096C300F01184E0A016D50&ID=",
+    "pageLoadPingUrl": "https://www.bingapis.com/api/ping/pageload?IG=7F29BAF9B57743418D9B0D300D4246A2&CID=10D40B3B0B096C300F01184E0A016D50&Type=Event.CPT&DATA=0"
+  },
+  "queryContext": {
+    "originalQuery": "standup comedy berlin",
+    "askUserForLocation": true
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=standup+comedy+berlin",
+    "webSearchUrlPingSuffix": "DevEx,5553.1",
+    "totalEstimatedMatches": 600000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Berlin, Germany Stand Up Comedy Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/stand-up-comedy/",
+        "urlPingSuffix": "DevEx,5120.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/stand-up-comedy",
+        "snippet": "Happy Accident: Stand Up Comedy! Sat, Aug 12 • 8:00 PM. The Wall Comedy. MAD MONDAY MAINSHOW! - Stand up Comedy im Mad Monkey Room (20 Uhr) Monday • 8:00 PM + 20 more. Mad Monkey Room. SHABBY LATESHOW! Stand up Comedy im Mad Monkey Room (22:30 Uhr)",
+        "deepLinks": [
+          {
+            "name": "Today",
+            "url": "https://www.eventbrite.com/d/germany--berlin/events--today/",
+            "urlPingSuffix": "DevEx,5552.1",
+            "snippet": "Save this event: New York Comedy Club - Berlin: Main Show. New York Comedy Club - Berlin: Main Show. Tomorrow • 9:00 PM. Z Bar. Share this event Save this event: New York Comedy Club - Berlin: Main Show. ⭐⭐Free Argentinian Tango Lessons⭐⭐ With Afterparty ♡ @West Berlin.",
+            "deepLinks": []
+          }
+        ],
+        "dateLastCrawled": "2023-08-20T01:37:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/prod/1349384-rc2023-08-17_16.04-09cbbe3/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Berlin, Germany Stand Up Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/stand-up/",
+        "urlPingSuffix": "DevEx,5147.1",
+        "datePublished": "2023-04-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 27, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/stand-up",
+        "snippet": "Save Tabar Comedy - Die Stand-Up Comedy Show in Berlin Moabit to your collection. Tabar Comedy - Die Stand-Up Comedy Show in Berlin Moabit Wed, Apr 26, 8:00 PM + 35 more events",
+        "dateLastCrawled": "2023-04-24T00:26:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/1238017-rc2023-04-20_16.04-7ebd75b/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Berlin, Germany Comedy Shows Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/comedy-shows/",
+        "urlPingSuffix": "DevEx,5173.1",
+        "datePublished": "2023-07-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 12, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/comedy-shows",
+        "snippet": "Save this event: ★LIVE STAND UP COMEDY★im Comedy Club \"Mad Monkey Room\" | 18:00h| 030 COMEDY ★LIVE STAND UP COMEDY★im Comedy Club \"Mad Monkey Room\" | 18:00h| 030 COMEDY Sun, Jul 9 • 6:00 PM + 29 more",
+        "dateLastCrawled": "2023-07-03T20:15:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/prod/1310133-rc2023-07-03_16.04-1c0e0c9/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Berlin, Germany Comedy Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/comedy/",
+        "urlPingSuffix": "DevEx,5199.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/comedy",
+        "snippet": "Lachkater Comedy - Die Stand Up Comedy Show Sat, Mar 25, 6:00 PM + 254 more events ewig freunde • Berlin YAAAS QUEEN! | Women & LGBTQ+ Comedy Show YAAAS QUEEN! | Women & LGBTQ+ Comedy Show Wed, Apr 12, 8:30 PM + 8 more events Cosmic Comedy Club Berlin • Berlin ★LIVE STAND UP COMEDY★im Comedy Club \"Mad Monkey Room\" | 18:00h| 030 COMEDY",
+        "dateLastCrawled": "2023-05-12T15:57:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/1256561-rc2023-05-11_16.04-c9a4723/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Almost Special: A Stand Up Comedy Event in Berlin - Eventbrite",
+        "url": "https://www.eventbrite.com/e/almost-special-a-stand-up-comedy-event-in-berlin-tickets-372892901707",
+        "urlPingSuffix": "DevEx,5225.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/e/almost-special-a-stand-up-comedy-event-in-berlin-tickets...",
+        "snippet": "Eventbrite - Epic Comedy Berlin presents Almost Special: A Stand Up Comedy Event in Berlin - Saturday, July 16, 2022 at Z-Bar, Berlin, BE. Find event and ticket information. Join us for a night of comedy filled with performers who are almost, very, nearly special.",
+        "dateLastCrawled": "2022-11-15T21:59:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F307870599%2F298303473048%2F1%2Foriginal.20220612-134825?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4b5cc1e6f80c1fcbae25d0bea9a13710",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "English stand-up: Barrel of Laughs! 06.09.23 - Eventbrite",
+        "url": "https://www.eventbrite.com/e/english-stand-up-barrel-of-laughs-060923-tickets-640039544507",
+        "urlPingSuffix": "DevEx,5251.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/e/english-stand-up-barrel-of-laughs-060923-tickets-640039544507",
+        "snippet": "Neukölln's weekly English comedy night at the local favorite event bar Funkloch! 8 international comedians and Berlin's curliest host! English stand-up: Barrel of Laughs! 06.09.23 Tickets, Wed, Sep 6, 2023 at 8:00 PM | Eventbrite",
+        "dateLastCrawled": "2023-08-20T01:18:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F574688209%2F1493876020053%2F1%2Foriginal.20230814-081946?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C40%2C1280%2C640&s=b2dfb3bc059bdd0d70c4413aec5b9590",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "English Standup Comedy Show - Not Smooth - Berlin - Eventbrite",
+        "url": "https://www.eventbrite.com/e/english-standup-comedy-show-not-smooth-berlin-tickets-513376582177",
+        "urlPingSuffix": "DevEx,5279.1",
+        "datePublished": "2023-01-21T16:30:00.0000000",
+        "datePublishedDisplayText": "Jan 21, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/e/english-standup-comedy-show-not-smooth-berlin-tickets...",
+        "snippet": "English Standup Comedy Show - Not Smooth - Berlin Live English Standup Comedy showcasing the best of Europe's English Standup Comedians @simongcomedy, @pascalhausberger @thewallcomedyclub Sat, January 21, 20235:30 PM – 7:30 PM CET The Wall Comedy Club Grünberger Str. 84 10245 Berlin Germany",
+        "dateLastCrawled": "2023-01-11T22:40:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F422854699%2F476768549583%2F1%2Foriginal.20230111-210002?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C137%2C1024%2C512&s=09bcc25aa4b76ce334c89f04e6b63b6a",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Stand-up Comedy Berlin Events | Eventbrite",
+        "url": "https://www.eventbrite.com/o/stand-up-comedy-berlin-47961807863",
+        "urlPingSuffix": "DevEx,5306.1",
+        "datePublished": "2023-06-16T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 16, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/o/stand-up-comedy-berlin-47961807863",
+        "snippet": "Stand-up Comedy Berlin is using Eventbrite to organize 3 upcoming events. Check out Stand-up Comedy Berlin's events, learn more, or contact this organizer.",
+        "dateLastCrawled": "2023-06-13T03:23:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F459309709%2F954457457893%2F1%2Foriginal.20230302-185440?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1500%2C1500&s=f9d5c580778cbdae82bf98d46ca52a0e",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "es",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "New York Comedy Club - Berlin Events | Eventbrite",
+        "url": "https://www.eventbrite.com/o/new-york-comedy-club-berlin-33923255101",
+        "urlPingSuffix": "DevEx,5332.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/o/new-york-comedy-club-berlin-33923255101",
+        "snippet": "Experience the good, the bad and the ugly of real standup in the realest city in the world – Berlin! New York Comedy Club - Berlin is using Eventbrite to organize 2 upcoming events. Check out New York Comedy Club - Berlin's events, learn more, or contact this organizer.",
+        "dateLastCrawled": "2023-08-10T03:45:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F181178429%2F17146367239%2F1%2Foriginal.20211106-053824?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C1080&s=8c0eae859ce9a23e0f06e1e8942166a1",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "English stand-up: New Girl in Berlin 29.09.23 - Eventbrite",
+        "url": "https://www.eventbrite.com/e/english-stand-up-new-girl-in-berlin-290923-tickets-699565066947",
+        "urlPingSuffix": "DevEx,5358.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/e/english-stand-up-new-girl-in-berlin-290923-tickets...",
+        "snippet": "Eventbrite - Curly Comedy Berlin presents English stand-up: New Girl in Berlin 29.09.23 - Friday, September 29, 2023 at Bispäter Cafe/Bar, Berlin, BE. Find event and ticket information. English comedy show by diverse female comedians surviving Berlin!",
+        "dateLastCrawled": "2023-08-16T22:37:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F576494199%2F1493876020053%2F1%2Foriginal.20230814-092901?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C41%2C1280%2C640&s=b63fe5b102cde2a66198c0a624419f25",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        }
+      ]
+    }
+  }
+}

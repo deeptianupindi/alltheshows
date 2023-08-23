@@ -9,7 +9,8 @@
     "allowJs": true,
     "moduleResolution": "node",
     "typeRoots": ["custom.d.ts", "node_modules/@types"],
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true
   },
   "files": ["custom.d.ts"],
   "include": ["src/", "custom.d.ts"]

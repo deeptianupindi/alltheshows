@@ -13,9 +13,7 @@ export const getNetflixOriginalsAsync = createAsyncThunk<
   void,
   { state: RootState }
 >('netflixOriginals/getNetflixOriginals', async () => {
-  const response = await axios.get(
-    `/discover/tv?api_key=${process.env.API_KEY}&with_networks=213`
-  )
+  const response = await axios.get('&q=improv%2Bshows%2Bberlin')
   return response.data.results
 })
 

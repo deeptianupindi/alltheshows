@@ -4,12 +4,12 @@ import './footer.scss'
 const footer = () => (
   <footer className='footer'>
     <div className='footer__copyright'>
-      &copy; {new Date().getFullYear()} Made with ❤️ by{' '}
+      &copy; {new Date().getFullYear()} Made with by{' '}
       <a
         className='footer__copyright--link'
-        href='https://github.com/devandres-tech'
+        href='https://github.com/deeptianupindi'
       >
-        Dev Andres
+        D.A
       </a>
     </div>
   </footer>

@@ -1,0 +1,313 @@
+{
+  "_type": "SearchResponse",
+  "instrumentation": {
+    "_type": "ResponseInstrumentation",
+    "pingUrlBase": "https://www.bingapis.com/api/ping?IG=9E2D128D6E0F4C9FB73BF70AC7D2C2D8&CID=3F9F3AA9711B6CB931A329DF70DC6DB7&ID=",
+    "pageLoadPingUrl": "https://www.bingapis.com/api/ping/pageload?IG=9E2D128D6E0F4C9FB73BF70AC7D2C2D8&CID=3F9F3AA9711B6CB931A329DF70DC6DB7&Type=Event.CPT&DATA=0"
+  },
+  "queryContext": {
+    "originalQuery": "storytelling berlin"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=storytelling+berlin",
+    "webSearchUrlPingSuffix": "DevEx,5417.1",
+    "totalEstimatedMatches": 28400,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Berlin, Germany Storytelling Workshop Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/storytelling-workshop/",
+        "urlPingSuffix": "DevEx,5108.1",
+        "datePublished": "2023-04-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 29, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/storytelling-workshop",
+        "snippet": "Lining up plans in Berlin? Whether you're a local, new in town, or just passing through, you'll be sure to find something on Eventbrite that piques your interest.",
+        "dateLastCrawled": "2023-03-19T19:42:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/1200840-rc2023-03-16_16.04-17c055e/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Berlin, Germany Storytelling Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/storytelling/",
+        "urlPingSuffix": "DevEx,5133.1",
+        "datePublished": "2023-06-04T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 4, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/storytelling",
+        "snippet": "Lining up plans in Berlin? Whether you're a local, new in town, or just passing through, you'll be sure to find something on Eventbrite that piques your interest.",
+        "dateLastCrawled": "2023-05-27T04:59:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/prod/1269091-rc2023-05-25_16.04-ec828fb/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Berlin, Germany English Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/english/",
+        "urlPingSuffix": "DevEx,5156.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/english",
+        "snippet": "STANDUP STORYTELLERS - English Comedy Storytelling Sun, Sep 3 • 8:30 PM + 2 more Galerie & Bar Tor218 Artlab Berlin Dating Story: English Standup Comedy @ F'shain | 20+ Wednesday • 8:00 PM + 91 more The Wall Comedy AFTER CHURCH COMEDY - English Open Mic Tomorrow • 9:00 PM + 1 more Valentin Stüberl",
+        "dateLastCrawled": "2023-08-21T18:03:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/prod/1349384-rc2023-08-17_16.04-09cbbe3/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Speech Storytelling Masterclass Berlin - Eventbrite",
+        "url": "https://www.eventbrite.com/e/speech-storytelling-masterclass-berlin-tickets-662949227987",
+        "urlPingSuffix": "DevEx,5183.1",
+        "datePublished": "2023-07-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 29, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/e/speech-storytelling-masterclass-berlin-tickets-662949227987",
+        "snippet": "Eventbrite - David McCrae presents Speech Storytelling Masterclass Berlin - Saturday, July 29, 2023 at Berlin, Berlin, BE. Find event and ticket information.",
+        "dateLastCrawled": "2023-06-20T17:20:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F539327069%2F1449391603723%2F1%2Foriginal.20230620-125650?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C17%2C1640%2C820&s=1293456e020c6a211b55b130e589f9d0",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "Potsdamer Platz, 10785 Berlin, Germany"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "End Date"
+            },
+            "items": [
+              {
+                "text": "2023-07-29T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:ENDDATE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Berlin, Germany Open Mic Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/open-mic/?page=0",
+        "urlPingSuffix": "DevEx,5207.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/open-mic/?page=0",
+        "snippet": "Lining up plans in Berlin? Whether you're a local, new in town, or just passing through, you'll be sure to find something on Eventbrite that piques your interest.",
+        "dateLastCrawled": "2023-08-22T00:03:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/prod/1349384-rc2023-08-17_16.04-09cbbe3/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Berlin, Germany Storytelling Workshop Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/storytelling-workshop/?page=6",
+        "urlPingSuffix": "DevEx,5232.1",
+        "datePublished": "2023-07-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 24, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/storytelling-workshop/?page=6",
+        "snippet": "Lining up plans in Berlin? Whether you're a local, new in town, or just passing through, you'll be sure to find something on Eventbrite that piques your interest.",
+        "dateLastCrawled": "2023-07-10T03:26:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/prod/1313470-rc2023-07-05_16.04-8e420c9/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Berlin, Germany Stand Up Comedy Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/germany--berlin/stand-up-comedy/",
+        "urlPingSuffix": "DevEx,5256.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/germany--berlin/stand-up-comedy",
+        "snippet": "Happy Accident: Stand Up Comedy! Sat, Aug 12 • 8:00 PM. The Wall Comedy. MAD MONDAY MAINSHOW! - Stand up Comedy im Mad Monkey Room (20 Uhr) Monday • 8:00 PM + 20 more. Mad Monkey Room. SHABBY LATESHOW! Stand up Comedy im Mad Monkey Room (22:30 Uhr)",
+        "dateLastCrawled": "2023-08-20T01:37:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/prod/1349384-rc2023-08-17_16.04-09cbbe3/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Muse: an experiment in storytelling, discussion, and life drawing (BERLIN)",
+        "url": "https://www.eventbrite.com/e/muse-an-experiment-in-storytelling-discussion-and-life-drawing-berlin-tickets-473347413857",
+        "urlPingSuffix": "DevEx,5281.1",
+        "datePublished": "2022-12-05T18:30:00.0000000",
+        "datePublishedDisplayText": "Dec 5, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/e/muse-an-experiment-in-storytelling-discussion-and-life...",
+        "snippet": "Eventbrite - Cameryn Moore presents Muse: an experiment in storytelling, discussion, and life drawing (BERLIN) - Monday, December 5, 2022 at Wein Salon, Berlin, BE. Find event and ticket information.",
+        "dateLastCrawled": "2022-11-23T21:51:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F398060059%2F48535383986%2F1%2Foriginal.20220520-101123?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C613%2C6016%2C3008&s=ef1917c1b746bd4f3dcdd6d7c5790bf1",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Online Storytelling Events | Eventbrite",
+        "url": "https://www.eventbrite.com/d/online/storytelling/",
+        "urlPingSuffix": "DevEx,5305.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/d/online/storytelling",
+        "snippet": "Storytelling To Inspire Today • 7:00 PM EDT + 7 more Impact Storytelling Series Tue, Sep 12 • 5:00 PM PDT Visual Storytelling/Comic Arts Info Session Wed, Aug 2 • 6:00 PM EDT VOW Workshop #1: Narrator Experience & Storytelling Ethics Wed, Aug 2 • 12:00 PM PDT NowSkills Expert Series: Effective Data Storytelling with Brent Dykes",
+        "dateLastCrawled": "2023-08-15T14:35:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://cdn.evbstatic.com/s3-build/prod/1345316-rc2023-08-14_16.04-a6fc9d7/django/images/logos/eb_orange_on_white_1200x630.png",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Programmes on Storytelling | Eventbrite",
+        "url": "https://www.eventbrite.com/cc/programmes-on-storytelling-127929",
+        "urlPingSuffix": "DevEx,5328.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eventbrite.com/cc/programmes-on-storytelling-127929",
+        "snippet": "Programmes on Storytelling | Eventbrite. Explore our various storytelling sessions at the public libraries for children 4-10 years old at GoLibrary now!",
+        "dateLastCrawled": "2023-08-17T14:03:00.0000000Z",
+        "openGraphImage": {
+          "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F269149339%2F252976191676%2F1%2Foriginal.20220419-150314?w=1024&auto=format%2Ccompress&q=75&sharp=10&rect=87%2C3%2C2267%2C828&s=eecca0b2fbb1f88c5a8460ee0bfb1459",
+          "width": 0,
+          "height": 0
+        },
+        "fixedPosition": false,
+        "language": "en",
+        "isNavigational": false
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        }
+      ]
+    }
+  }
+}

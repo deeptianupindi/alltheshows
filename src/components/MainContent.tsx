@@ -13,6 +13,15 @@ import { useAppSelector, useAppDispatch } from '../store'
 import Header from './Header'
 import DisplayMovieRow from './DisplayMovieRow'
 
+import MoreInfo from '../static/images/more-info.svg'
+import { ButtonType } from './Button/Button'
+import Button from './Button/Button'
+import Carousel from 'better-react-carousel'
+
+import improvData from '../improvData.json'
+import standupData from '../standupData.json'
+import storyData from '../storyData.json'
+
 const MainContent = ({ selectMovieHandler }: { selectMovieHandler: any }) => {
   const { movieDetails } = useAppSelector((state) => state.movieDetails)
   const netflixOriginals = useAppSelector((state) => state.netflixOriginals)
@@ -43,51 +52,79 @@ const MainContent = ({ selectMovieHandler }: { selectMovieHandler: any }) => {
     dispatch(documentarySlice.getDocumentariesAsync())
   }, [dispatch])
 
+const DisplayImprovData = improvData.webPages.value.reverse().map(
+        (data: any)=>{
+            return(
+              <Carousel.Item>
+                <img width="100%" src={data.openGraphImage.contentUrl} />
+                <h1>{data.name}</h1>
+                <p>{data.snippet}</p>
+                <Button
+                  buttonType={ButtonType.Primary}
+                  onClick={() => { window.location.href = data.url; } }
+                  label={'Tickets'}
+                />
+                <Button
+                  buttonType={ButtonType.Secondary}
+                  label={data.datePublishedDisplayText}
+                />
+              </Carousel.Item>
+)})
+
+const DisplayStandupData = standupData.webPages.value.reverse().map(
+      (data: any)=>{
+          return(
+              <Carousel.Item>
+                <img width="100%" src={data.openGraphImage.contentUrl} />
+                <h1>{data.name}</h1>
+                <p>{data.snippet}</p>
+                <Button
+                  buttonType={ButtonType.Primary}
+                  onClick={() => { window.location.href = data.url; } }
+                  label={'Tickets'}
+                />
+                <Button
+                  buttonType={ButtonType.Secondary}
+                  label={data.datePublishedDisplayText}
+                />
+              </Carousel.Item>
+)})
+
+const DisplayStoryData = storyData.webPages.value.reverse().map(
+      (data: any)=>{
+          return(
+            <Carousel.Item>
+              <img width="100%" src={data.openGraphImage.contentUrl} />
+              <h1>{data.name}</h1>
+              <p>{data.snippet}</p>
+              <Button
+                buttonType={ButtonType.Primary}
+                onClick={() => { window.location.href = data.url; } }
+                label={'Tickets'}
+              />
+              <Button
+                buttonType={ButtonType.Secondary}
+                label={data.datePublishedDisplayText}
+              />
+            </Carousel.Item>
+)})
+
   return (
     <div className='container'>
       <Header name={movieDetails.name} overview={movieDetails.overview} />
       <div className='movieShowcase'>
-        <DisplayMovieRow
-          isNetflixMovies={true}
-          title='Netflix Originals'
-          selectMovieHandler={selectMovieHandler}
-          movies={netflixOriginals.data}
-        />
-        <DisplayMovieRow
-          title='Trending'
-          selectMovieHandler={selectMovieHandler}
-          movies={trending.data}
-        />
-        <DisplayMovieRow
-          title='Top Rated'
-          selectMovieHandler={selectMovieHandler}
-          movies={topRated.data}
-        />
-        <DisplayMovieRow
-          title='Action Movies'
-          selectMovieHandler={selectMovieHandler}
-          movies={actionMoviesState.data}
-        />
-        <DisplayMovieRow
-          title='Comedy'
-          selectMovieHandler={selectMovieHandler}
-          movies={comedyMovies.data}
-        />
-        <DisplayMovieRow
-          title='Horror Movies'
-          selectMovieHandler={selectMovieHandler}
-          movies={horrorMovies.data}
-        />
-        <DisplayMovieRow
-          title='Romance'
-          selectMovieHandler={selectMovieHandler}
-          movies={romanceMovies.data}
-        />
-        <DisplayMovieRow
-          title='Documentaries'
-          selectMovieHandler={selectMovieHandler}
-          movies={documentaries.data}
-        />
+        <div className='modal__title'>Improv Shows</div>
+          <Carousel cols={4} rows={1} gap={10}>
+              {DisplayImprovData}
+          </Carousel>
+        <div className='modal__title'>Standup Comedy</div>
+          <Carousel cols={4} rows={1} gap={10}>
+            {DisplayStandupData}
+          </Carousel>
+        <div className='modal__title'>Storytelling</div>
+          <Carousel cols={4} rows={1} gap={10}>
+            {DisplayStoryData}
+          </Carousel>
       </div>
     </div>
   )

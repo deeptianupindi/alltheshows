@@ -1,0 +1,18 @@
+{
+  "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+  "name": "Almost Special: A Stand Up Comedy Event in Berlin - Eventbrite",
+  "url": "https://www.eventbrite.com/e/almost-special-a-stand-up-comedy-event-in-berlin-tickets-372892901707",
+  "urlPingSuffix": "DevEx,5225.1",
+  "isFamilyFriendly": true,
+  "displayUrl": "https://www.eventbrite.com/e/almost-special-a-stand-up-comedy-event-in-berlin-tickets...",
+  "snippet": "Eventbrite - Epic Comedy Berlin presents Almost Special: A Stand Up Comedy Event in Berlin - Saturday, July 16, 2022 at Z-Bar, Berlin, BE. Find event and ticket information. Join us for a night of comedy filled with performers who are almost, very, nearly special.",
+  "dateLastCrawled": "2022-11-15T21:59:00.0000000Z",
+  "openGraphImage": {
+    "contentUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F307870599%2F298303473048%2F1%2Foriginal.20220612-134825?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4b5cc1e6f80c1fcbae25d0bea9a13710",
+    "width": 0,
+    "height": 0
+  },
+  "fixedPosition": false,
+  "language": "en",
+  "isNavigational": false
+}
